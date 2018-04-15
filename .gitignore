@@ -34,3 +34,4 @@ sysinfo.txt
 *.unitypackage
 /snakesonanate/Library/*
 /snakesonanate/Temp/*
+/snakesonanate/.vs/*
